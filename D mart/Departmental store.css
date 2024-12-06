@@ -1,0 +1,35 @@
+.nav{
+    background-color:gray ;
+}
+#a1,li{
+    display: inline-flex;
+    cursor: pointer;
+    margin-left: 60%;
+}
+#a:hover,#b:hover,#c:hover{
+    color: blue;
+    border-bottom: solid;
+}
+
+.box{ 
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color:black ;
+    display: inline-block;
+}
+.buy{
+    cursor: pointer;
+}
+.buy:hover{
+    color: white;
+    background-color: black;
+}
+.footer{
+    text-align: center;
+}
+#abt{
+    border-bottom: solid black;
+    display: inline-block;
+   
+}
